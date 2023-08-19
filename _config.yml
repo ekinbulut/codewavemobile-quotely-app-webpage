@@ -21,9 +21,9 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Ekin Bulut                                
-your_link                                 : https://ekinbulut.github.ip                  
-your_city                                 : Istanbul                                
-email_address                             : ekinbulut@gmail.com
+your_link                                 : https://ekinbulut.github.io                  
+your_city                                 :                                 
+email_address                             : 
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
@@ -36,7 +36,7 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
+  - title                                 : A minimal app
     description                           : Designed for visionaries, philosophers, and modern thinkers, providing you with a dose of inspiration whenever you need it
     fontawesome_icon_name                 : magic
     
