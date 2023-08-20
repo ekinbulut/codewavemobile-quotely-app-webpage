@@ -14,7 +14,7 @@ Here you can track the development status of the app. I will try to update this 
 This is the first update to our app. Advertisement frequency reduce. Which means when you will recive ads after a while while using app.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
+- Advertisement frequency reduced.
 
 ________
 <br>
