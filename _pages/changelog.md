@@ -10,6 +10,16 @@ Here you can track the development status of the app. I will try to update this 
 <br>
 
 ### `Latest`
+# **Version 1.2**
+Background work refactored. Widgets are improved.
+
+#### What's New
+- Large size widget added.
+- Advertisement frequency updated
+
+________
+<br>
+
 # **Version 1.1**
 This is the first update to our app. Advertisement frequency reduce. Which means when you will recive ads after a while while using app.
 
