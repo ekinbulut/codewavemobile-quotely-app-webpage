@@ -10,6 +10,16 @@ Here you can track the development status of the app. I will try to update this 
 <br>
 
 ### `Latest`
+# **Version 1.3**
+Options menu created now users can select categories from options menu.
+
+#### What's New
+- Options menu.
+- Category selection
+
+________
+<br>
+
 # **Version 1.2**
 Background work refactored. Widgets are improved.
 
