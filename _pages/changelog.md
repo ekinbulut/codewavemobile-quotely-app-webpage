@@ -10,6 +10,16 @@ Here you can track the development status of the app. I will try to update this 
 <br>
 
 ### `Latest`
+# **Version 1.3.1**
+Api changes
+
+#### What's New
+- Background api has changed
+- Bug fixes
+
+________
+<br>
+
 # **Version 1.3**
 Options menu created now users can select categories from options menu.
 
